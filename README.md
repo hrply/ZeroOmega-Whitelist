@@ -1,5 +1,5 @@
 # SwitchyOmega-Whitelist
-适用于 SwitchyOmega 的中国网站白名单，主要内容来自 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)，纯列表，自动更新。
+适用于 SwitchyOmega 的中国网站白名单，folked from [https://github.com/entr0pia/SwitchyOmega-Whitelist],仅为自用备份, 主要内容来自 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)，纯列表，自动更新。
 
 **建议使用 [ZeroOmega](https://github.com/zero-peak/ZeroOmega) 插件，原版插件已遭到攻击。参考阅读 [When Chrome Extensions Turn Against Us: The Cyberhaven Breach and Beyond](https://medium.com/extensiontotal/when-chrome-extensions-turn-against-us-the-cyberhaven-breach-and-beyond-9e35e59e1bff)**
 
@@ -11,7 +11,7 @@
 5. 默认情景模式设置为刚才设置的代理服务器；
 6. 点击「添加规则列表」，在规则列表网址，输入
     ```
-    https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl
+    https://raw.githubusercontent.com/hrply/ZeroOmega-Whitelist/master/white-list.sorl
     ```
     > 代理加速 (一个一个试):
     > 1. https://ghproxy.com/https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-list.sorl
