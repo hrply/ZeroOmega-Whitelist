@@ -1,5 +1,5 @@
 # SwitchyOmega-Whitelist
-适用于 SwitchyOmega 的中国网站白名单，folked from [https://github.com/entr0pia/SwitchyOmega-Whitelist],仅为自用备份, 主要内容来自 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)，纯列表，自动更新。
+适用于 SwitchyOmega 的中国网站白名单，folked from [https://github.com/entr0pia/SwitchyOmega-Whitelist]，仅为自用备份, 主要内容来自 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)，纯列表，自动更新。
 
 **建议使用 [ZeroOmega](https://github.com/zero-peak/ZeroOmega) 插件，原版插件已遭到攻击。参考阅读 [When Chrome Extensions Turn Against Us: The Cyberhaven Breach and Beyond](https://medium.com/extensiontotal/when-chrome-extensions-turn-against-us-the-cyberhaven-breach-and-beyond-9e35e59e1bff)**
 
